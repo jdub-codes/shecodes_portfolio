@@ -1,0 +1,139 @@
+/* Base HTML Styles */
+
+:root {
+	--pink: #DC5354;
+	--yellow: #FBD15B;
+	--green: #669999;
+	--blue: #0A335B;
+	--black: #111111;
+	--gray: #E9E5D9;
+}
+
+/* CSS Reset */
+
+html {
+	box-sizing: border-box;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: var(--black);
+	scroll-behavior: smooth;
+	margin: 24px;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+input,
+button,
+textarea,
+select {
+	font: inherit;
+}
+
+/* Global styles */
+
+h1 {
+	font-size: 1rem;
+	/* font-weight: normal; */
+	color:#DC5354;
+}
+
+h2 {
+	font-size: 4rem;
+	color:#DC5354;
+	margin-bottom: 24px;
+}
+
+h3 {
+	font-size: 2rem;
+	color:#0A335B;
+}
+
+/* Header */
+
+header {	
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	margin-bottom: 16px;
+}
+
+.info-icon, .menu-icon {
+	height: 30px;
+	color: #0A335B;
+}
+
+/* .my-header, .my-menu {
+	flex: 1;
+} */
+
+/* .my-header {
+	background-image: url('../img/circle-logo.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+} */
+
+/* Hero */
+
+.my-info, .geometric-bg {
+	flex: 1;
+}
+
+.geometric-bg {
+	background-image: url('../img/geometric-image.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-x: 100%;
+}
+
+@media (min-width: 768px) {
+
+	#hero {
+		display: flex;
+		align-items: center;
+		width: 100%;
+	}
+
+	.my-info, .geometric-bg {
+		flex-direction: column-reverse;
+	}
+
+	.my-info {
+		margin: 96px
+	}
+
+}
+
+/* Work */
+
+/* Contact */
+
+/* Footer */
