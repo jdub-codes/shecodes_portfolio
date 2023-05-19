@@ -2,27 +2,37 @@
 [My portfolio site]( {{ link_to_your_site }} )
 ## Project Requirements
 ## Wireframe
-Check out my wireframes bulit in Canva.
-Desktop (https://www.canva.com/design/DAFi2LUdsJA/Y5Yg9sHby19SADmDqPeF3A/view?utm_content=DAFi2LUdsJA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-Mobile (https://www.canva.com/design/DAFi2B0gU5o/moDEPGoPo_AEBMAD0bPkmg/view?utm_content=DAFi2B0gU5o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+Check out my wireframes bulit in Canva. I love the simplicity of Helvetica. Arial is my back-up. My colour palette is derived from the artwork I created for my site.
+Desktop
+![Screenshot](Desktop_Wireframe_Home.png)
+![Screenshot](Desktop_Wirefame_About.png)
+![Screenshot](Desktop_Wireframe_Contact.png)
+Mobile
+![Screenshot](Mobile_Wireframe_Home.png)
+![Screenshot](Mobile_Wirefame_About.png)
+![Screenshot](Mobile_Wireframe_Contact.png)
+
 ### Content
-{{ Add a short paragraph describing the features below. }}
-- [ ] At least one profile picture
-- [ ] Biography (at least 100 words)
-- [ ] Functional Contact Form
-- [ ] "Projects" section
-- [ ] Links to external sites, e.g. GitHub and LinkedIn.
+My content includes an about me page with my biography and photo, a contact form and my homepage has my projects section. A future improvement will be to add a work page to showcase my projects in greater detail. I have included links to my Github and LinkedIn profiles in the footer.
+- [X] Profile picture
+- [X] Biography (at least 100 words)
+- [X] Functional Contact Form
+- [X] "Projects" section
+- [X] Links to my GitHub and LinkedIn.
 ### Technical
-{{ Add a short paragraph describing the features below. }}
-- [ ] At least 2 web pages.
-- [ ] Version controlled with Git
-- [ ] Deployed on GitHub pages.
-- [ ] Implements responsive design principles.
-- [ ] Uses semantic HTML.
+My site has four active pages, is version controlled with Git and deployed on GitHub. I have used semantic HTML (Andrew taught us that lots of divs are bad) and I designed it mobile first to make it responsive between phone, tablet and desktop.
+- [X] At least 2 web pages.
+- [X] Version controlled with Git
+- [X] Deployed on GitHub pages.
+- [X] Implements responsive design principles.
+- [X] Uses semantic HTML.
 ### Bonus (optional)
-{{ Add a short paragraph describing the features below, if you included any. }}
-- [ ] Different styles for active, hover and focus states.
-- [ ] Include JavaScript to add some dynamic elements to your site. (Extra
+I added some nice effects to my projects section on the homepage with a change in colour, and I included some Javascript to disappear my hamburger menu when at desktop size. Below are some screenshots of these features.
+Desktop
+![Screenshot]
+![Screenshot]
+- [X] Different styles for active, hover and focus states.
+- [X] Include JavaScript to add some dynamic elements to your site. (Extra
 tricky!)
 ### Screenshots
 > Please include the following:
