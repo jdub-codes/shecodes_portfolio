@@ -5,7 +5,7 @@
 Check out my wireframes bulit in Canva. I love the simplicity of Helvetica. Arial is my back-up. My colour palette is derived from the artwork I created for my site.
 Desktop
 ![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wireframe_Home.png)
-![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wirefame_About.png)
+![Screenshot]([https://github.com/jdub-codes/shecodes_portfolio/blob/main/Wireframes/Desktop_Wireframe_About.png?raw=true](https://raw.githubusercontent.com/jdub-codes/shecodes_portfolio/main/Wireframes/Desktop_Wireframe_About.png))
 ![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wireframe_Contact.png)
 Mobile
 ![Screenshot](../Portfolio%20website/Wireframes/Mobile_Wireframe_Home.png)
