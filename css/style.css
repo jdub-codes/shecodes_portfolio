@@ -308,12 +308,6 @@ a {
 	font-size: 0.8rem;
 }
 
-#contact .content {
-	display: flex;
-	flex: 1;
-
-}
-
 #contact {
 	padding: 48px 16px;
 }
@@ -329,7 +323,6 @@ a {
 @media (min-width: 768px){
 	#contact h2 {
 		text-align: center;
-		font-size: 2.5rem;
 	}
 
 	#contact form {
@@ -339,10 +332,12 @@ a {
 }
 
 #contact input[type="submit"] {
-	background-color: var(--pink);
+	background-color: var(--gray);
 	border: 0;
-	margin-top: 8px;
+	margin-top: 16px;
+	margin-bottom: 16px;
 	cursor: pointer;
+	font-weight: bold;
 }
 
 /* Footer */
