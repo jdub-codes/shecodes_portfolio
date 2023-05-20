@@ -28,9 +28,9 @@ My site has three active pages, is version controlled with Git and deployed on G
 ### Bonus (optional)
 I added some nice effects to my projects section on the homepage with a change in colour, and I included some Javascript to disappear my hamburger menu when at desktop size. Below are some screenshots of these features.
 Desktop
-![Screenshot](../Portfolio%20website/Screenshots/hover_screenshot.png)
-![Screenshot](../Portfolio%20website/Screenshots/myprojects_hover.png)
-![Screenshot](../Portfolio%20website/Screenshots/mobile_menu.png)
+![Screenshot]( {{ ./relative_path_to_file }} )
+![Screenshot]( {{ ./relative_path_to_file }} )
+![Screenshot]( {{ ./relative_path_to_file }} )
 - [X] Different styles for active, hover and focus states.
 - [X] Include JavaScript to add some dynamic elements to your site. (Extra tricky!)
 ### Screenshots
