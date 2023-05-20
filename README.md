@@ -22,7 +22,7 @@ My content includes an about me page with my biography and photo, a contact form
 ### Technical
 My site has four active pages, is version controlled with Git and deployed on GitHub. I have used semantic HTML (Andrew taught us that lots of divs are bad) and I designed it mobile first to make it responsive between phone, tablet and desktop.
 - [X] At least 2 web pages.
-- [X] Version controlled with Git
+- [X] Version controlled with Git.
 - [X] Deployed on GitHub pages.
 - [X] Implements responsive design principles.
 - [X] Uses semantic HTML.
