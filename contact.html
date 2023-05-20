@@ -9,54 +9,60 @@
 </head>
 <body>
 
-    <header>
-        <div class="mobile-header">
-            <img src="img/circle-logo.png" class="info-icon">
-			<h1>Jenny Waller</h1>
-            <button class="hamburger-button">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hamburger-icon">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-            </svg>
-            </button>
-		</div>
-        <nav class="desktop-nav">
-        <nav>
-            <ul>
-                <li>
-                    <a href="index.html">Home</a>
+    <header class="header">
+        <nav class="navbar">
+            <div class="circle-align">
+            <img src="img/circle-logo.png" alt="circle" class="circle-logo">
+            <a href="index.html" class="nav-logo">Jenny Waller</a>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">Home</a>
                 </li>
-                <li>
-                    <a href="about.html">About</a>
+                <li class="nav-item">
+                    <a href="about.html" class="nav-link">About</a>
                 </li>
-                <li>
-                    <a href="work.html"><span class="hero-accent">Work</span></a>
+                <li class="nav-item">
+                    <a href="work.html" class="nav-link">Work</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link">Contact</a>
                 </li>
             </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
         </nav>
-        <nav class="mobile-nav display-none">
-            <nav>
-                <ul>
-                    <li>
-                        <a href="#">Home
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">About
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">Work
-                        </a>
-                    </li>
-                </ul>
-            </nav>
     </header>
 
+    <section id="contact">
+        <div class="contactform">
+		<h2>Get in touch</h2>
+		<form>
+			<label for="your-name">Name</label>
+			<input type="text" id="your-name">
+            <p>First name</p>
+            <input type="text" id="your-name">
+            <p>Last name</p>
+			<label for="email">Email</label>
+            <input type="text" id="email">
+			<label for="message">Message</label>
+			<textarea name="message-text" id="message" rows="10"></textarea>
+			<input type="submit" value="Submit">
+		</form>
+        </div>
+        <div class="contactwhy">
+        <h3>Lorium ipsum is simply dummy text of the printing and typsetting industry.</h3>
+        <img src="img/geometric-image1.png">
+        </div>
+    </section>
     
     <footer>
         <div class="contact-text">
-            <img src="img/triangle-logo.png" alt="triangle logo" class="info-icon">
-            <a href="contact.html"><h1>Contact</h1></a>
+            <img src="img/triangle-logo.png" alt="triangle logo" class="triangle-icon">
+            <a href="contact.html"><h1>Get in touch</h1></a>
         </div>
         <div class="social-media">
             <a href="https://github.com/jdub-codes">

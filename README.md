@@ -4,13 +4,13 @@
 ## Wireframe
 Check out my wireframes bulit in Canva. I love the simplicity of Helvetica. Arial is my back-up. My colour palette is derived from the artwork I created for my site.
 Desktop
-![Screenshot](Desktop_Wireframe_Home.png)
-![Screenshot](Desktop_Wirefame_About.png)
-![Screenshot](Desktop_Wireframe_Contact.png)
+![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wireframe_Home.png)
+![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wirefame_About.png)
+![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wireframe_Contact.png)
 Mobile
-![Screenshot](Mobile_Wireframe_Home.png)
-![Screenshot](Mobile_Wirefame_About.png)
-![Screenshot](Mobile_Wireframe_Contact.png)
+![Screenshot](../Portfolio%20website/Wireframes/Mobile_Wireframe_Home.png)
+![Screenshot](../Portfolio%20website/Wireframes/Mobile_Wirefame_About.png)
+![Screenshot](../Portfolio%20website/Wireframes/Mobile_Wireframe_Contact.png)
 
 ### Content
 My content includes an about me page with my biography and photo, a contact form and my homepage has my projects section. A future improvement will be to add a work page to showcase my projects in greater detail. I have included links to my Github and LinkedIn profiles in the footer.
