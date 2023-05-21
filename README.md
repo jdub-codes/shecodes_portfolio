@@ -1,15 +1,14 @@
-# Jenny Waller - Portfolio Task
-[My portfolio site](https://jdub-codes.github.io/shecodes_portfolio/index.html)
+# Jenny Waller - My Porfolio
+[My portfolio](https://jdub-codes.github.io/shecodes_portfolio/index.html)
 ## Project Requirements
 ## Wireframes
 I built my wireframes using Canva. I love the simplicity of Arial and Helvetica fonts. My colour palette is derived from the artwork I created for my site.
-<img src="(/Wireframes/Desktop_Wireframe_Home.png" width="100%">
-<img src="(/Wireframes/Desktop_Wireframe_About.png" width="100%">
-<img src="(/Wireframes/Desktop_Wireframe_Contact.png" width="100%">
-<img src="(/Wireframes/Desktop_Wireframe_Home.png" width="30%">
-<img src="(/Wireframes/Desktop_Wireframe_About.png" width="30%">
-<img src="(/Wireframes/Desktop_Wireframe_Contact.png" width="30%">
-
+![Screenshot](/Wireframes/Desktop_Wireframe_Home.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_About.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_Contact.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_Home.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_About.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_Contact.png)
 ### Content
 I have an about me page with my biography and photo, a contact form that uses formspree to make it functional, and my homepage lists my projects. I have included links to my Github and LinkedIn profiles in the footer.
 - [X] Profile picture
@@ -27,7 +26,7 @@ My site has three active pages, is version controlled with Git and deployed on G
 I added some nice effects to my projects section on the homepage with a change in colour, and I included some Javascript to disappear my hamburger menu when at desktop size. Below are some screenshots of these features.
 - [X] Different styles for active, hover and focus states
 - [X] Include JavaScript to add some dynamic elements to your site
-<img src="(/Screenshots/hover_screeshot.png" width="100%">
-<img src="(/Screenshots/myprojects_hover.png" width="30%">
-<img src="(/Screenshots/hamburger_menu.png" width="30%">
-<img src="(/Screenshots/myprojects_hover.png" width="30%">
+![Screenshot](/Screenshots/hover_screeshot.png")
+![Screenshot](/Screenshots/myprojects_hover.png")
+![Screenshot](/Screenshots/hamburger_menu.png")
+![Screenshot](/Screenshots/myprojects_hover.png")
