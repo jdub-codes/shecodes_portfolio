@@ -101,6 +101,27 @@ a {
 	font-weight: bold;
 }
 
+/* Components */
+
+.btn-primary {
+	padding: 12px 16px;
+	display: inline-block;
+	color: white;
+	border-radius: 4px;
+	background-color: var(--blue);
+	margin-left: 16px;
+	margin-top: 8px;
+}
+
+.btn-primary:hover {
+	/* outline: 1px solid var(--black); */
+	/* box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2); */
+	/* transform: scale(1.1); */
+	/* transform: translateY(-4px); */
+	background-color: var(--pink);
+}
+
+
 /* Header */
 
 .header{
