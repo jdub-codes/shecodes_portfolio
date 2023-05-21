@@ -285,10 +285,6 @@ a {
 	flex: 1;
 }
 
-#aboutme h3 {
-	font-size: 1.4rem;
-}
-
 @media (min-width: 768px){
 
 	#aboutme {
