@@ -85,7 +85,7 @@ h2 {
 }
 
 h3 {
-	font-size: 2rem;
+	font-size: 1.7rem;
 	color: var(--blue);
 	padding-top: 16px;
 	padding-bottom: 24px;
@@ -236,26 +236,42 @@ a {
 
 /* Hero */
 
-#hero .my-info, .geometric-bg {
-	flex: 1;
+#hero .headshot-bg {
+	height: 30vh;
+	background-image: url("../img/headshot-fancy.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 16px;
+	margin-left: 16px;
+	margin-right: 16px;
 	margin-bottom: 24px;
 }
 
 @media (min-width: 768px){
-
 	#hero {
 		display: flex;
 		align-items: center;
 		width: 100%;
-		margin: none;
-		margin-right: 16px;
+	}
+
+	#hero .my-headshot {
+		margin-left: 80px
+	}
+
+	#hero .headshot-info, .headshot-bg {
+		flex: 1;
+		flex-direction: column;
+	}
+
+	#hero .headshot-bg {
+		height: 55vh;
+		background-image: url("../img/headshot-fancy.png");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position-y: 0%;
 		margin-left: 16px;
+		margin-right: 48px;
 	}
-
-	#hero .my-info {
-		margin: 96px;
-	}
-
 }
 
 /* Work */
@@ -302,25 +318,46 @@ a {
 
 /* About */
 
-#aboutme .headshot-info, .headshot-bg {
-	flex: 1;
+#aboutme .headshot-bg {
+	height: 30vh;
+	background-image: url("../img/headshot.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 16px;
+	margin-left: 16px;
+	margin-right: 16px;
+	margin-bottom: 24px;
+	background-position-y: 30%;
 }
 
 @media (min-width: 768px){
-
 	#aboutme {
 		display: flex;
 		align-items: center;
 		width: 100%;
-		margin-right: 16px;
-		margin-left: 16px;
+		padding: 8px;
 	}
 
-	#aboutme .headshot-info {
-		margin: 96px;
+	#aboutme .my-headshot {
+		margin-left: 80px
+	}
+
+	#aboutme .headshot-info, .headshot-bg {
+		flex: 1;
+	}
+
+	#aboutme .headshot-bg {
+		height: 55vh;
+		background-image: url("../img/headshot.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position-y: 30%;
+		margin-right: 16px;
+		margin-left: 48px;
 	}
 
 }
+
 
 /* Contact */
 
