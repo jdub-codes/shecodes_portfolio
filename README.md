@@ -27,6 +27,6 @@ I added some nice effects to my projects section on the homepage with a change i
 ![Screenshot](/Screenshots/hover_screenshot.png)
 ![Screenshot](/Screenshots/myprojects_hover.png)
 ![Screenshot](/Screenshots/hamburger_menu.png)
-![Screenshot](/Screenshots/myprojects_hover.png)
+![Screenshot](/Screenshots/mobile_menu.png)
 - [X] Different styles for active, hover and focus states
 - [X] Include JavaScript to add some dynamic elements to your site
