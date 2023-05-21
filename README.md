@@ -14,6 +14,7 @@ I built my wireframes using Canva. I love the simplicity of Arial and Helvetica 
 I have an about me page with my biography and photo, a contact form that uses formspree to make it functional, and my homepage lists my projects. I have included links to my Github and LinkedIn profiles in the footer.
 - [X] Profile picture
 - [X] Biography (at least 100 words)
+- [X] Contact method (yes, it emails me!)
 - [X] "Projects" section
 - [X] Links to my GitHub and LinkedIn
 ### Technical
