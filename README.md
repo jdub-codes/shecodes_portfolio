@@ -4,12 +4,12 @@
 ### Wireframes
 I built my wireframes using Canva. I love the simplicity of Arial and Helvetica fonts. My colour palette is derived from the artwork I created for my site.  
 <br />
-![Screenshot](/Wireframes/Desktop_Wireframe_Home_1.png)
-![Screenshot](/Wireframes/Desktop_Wireframe_About_2.png)
-![Screenshot](/Wireframes/Desktop_Wireframe_Contact_3.png)
-![Screenshot](/Wireframes/Mobile_Wireframe_Home_1.png)
-![Screenshot](/Wireframes/Mobile_Wireframe_About_2.png)
-![Screenshot](/Wireframes/Mobile_Wireframe_Contact_3.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_Home.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_About.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_Contact.png)
+![Screenshot](/Wireframes/Mobile_Wireframe_Home.png)
+![Screenshot](/Wireframes/Mobile_Wireframe_About.png)
+![Screenshot](/Wireframes/Mobile_Wireframe_Contact.png)
 ### Content
 I have an about me page with my biography and photo, a contact form that uses formspree to make it functional, and my homepage lists my projects. I have included links to my Github and LinkedIn profiles in the footer.
 - [X] Profile picture
