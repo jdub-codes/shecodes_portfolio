@@ -254,10 +254,6 @@ a {
 		width: 100%;
 	}
 
-	#hero .my-headshot {
-		margin-left: 80px
-	}
-
 	#hero .headshot-info, .headshot-bg {
 		flex: 1;
 		flex-direction: column;
@@ -318,14 +314,14 @@ a {
 
 /* About */
 
-#aboutme .headshot-bg {
+#aboutme .aboutme-bg {
 	height: 30vh;
 	background-image: url("../img/headshot.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin-top: 16px;
 	margin-left: 16px;
-	margin-right: 16px;
+	margin-right: 48px;
 	margin-bottom: 24px;
 	background-position-y: 30%;
 }
@@ -335,29 +331,27 @@ a {
 		display: flex;
 		align-items: center;
 		width: 100%;
+	}
+
+	#aboutme .aboutme-info, .aboutme-bg {
+		flex: 1;
+		flex-direction: column;
 		padding: 8px;
 	}
 
-	#aboutme .my-headshot {
-		margin-left: 80px
+	#aboutme .aboutme-info {
+		margin-right: 48px;
 	}
 
-	#aboutme .headshot-info, .headshot-bg {
-		flex: 1;
-	}
-
-	#aboutme .headshot-bg {
+	#aboutme .aboutme-bg {
 		height: 55vh;
 		background-image: url("../img/headshot.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position-y: 30%;
-		margin-right: 16px;
-		margin-left: 48px;
+		margin-left: 16px;
 	}
-
 }
-
 
 /* Contact */
 
