@@ -3,12 +3,13 @@
 ## Project Requirements
 ## Wireframes
 I built my wireframes using Canva. I love the simplicity of Arial and Helvetica fonts. My colour palette is derived from the artwork I created for my site.
-![Screenshot](/Wireframes/Desktop_Wireframe_Home.png)
-![Screenshot](/Wireframes/Desktop_Wireframe_About.png)
-![Screenshot](/Wireframes/Desktop_Wireframe_Contact.png)
-![Screenshot](/Wireframes/Mobile_Wireframe_Home.png)
-![Screenshot](/Wireframes/Mobile_Wireframe_About.png)
-![Screenshot](/Wireframes/Mobile_Wireframe_Contact.png)
+##
+![Screenshot](/Wireframes/Desktop_Wireframe_Home_1.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_About_2.png)
+![Screenshot](/Wireframes/Desktop_Wireframe_Contact_3.png)
+![Screenshot](/Wireframes/Mobile_Wireframe_Home_1.png)
+![Screenshot](/Wireframes/Mobile_Wireframe_About_2.png)
+![Screenshot](/Wireframes/Mobile_Wireframe_Contact_3.png)
 ### Content
 I have an about me page with my biography and photo, a contact form that uses formspree to make it functional, and my homepage lists my projects. I have included links to my Github and LinkedIn profiles in the footer.
 - [X] Profile picture
@@ -24,6 +25,7 @@ My site has three active pages, is version controlled with Git and deployed on G
 - [X] Uses semantic HTML
 ### Bonus (optional)
 I added some nice effects to my projects section on the homepage with a change in colour, and I included some Javascript to disappear my hamburger menu when at desktop size. Below are some screenshots of these features.
+##
 ![Screenshot](/Screenshots/hover_screenshot.png)
 ![Screenshot](/Screenshots/myprojects_hover.png)
 ![Screenshot](/Screenshots/hamburger_menu.png)
