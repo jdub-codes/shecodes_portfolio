@@ -1,19 +1,13 @@
 # Jenny Waller - Portfolio Task
-[My portfolio site]( {{ link_to_your_site }} )
+[My portfolio site](https://jdub-codes.github.io/shecodes_portfolio/index.html)
 ## Project Requirements
 ## Wireframe
 Check out my wireframes bulit in Canva. I love the simplicity of Helvetica. Arial is my back-up. My colour palette is derived from the artwork I created for my site.
 Desktop
-![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wireframe_Home.png)
-![Screenshot]([https://github.com/jdub-codes/shecodes_portfolio/blob/main/Wireframes/Desktop_Wireframe_About.png?raw=true](https://raw.githubusercontent.com/jdub-codes/shecodes_portfolio/main/Wireframes/Desktop_Wireframe_About.png))
-![Screenshot](../Portfolio%20website/Wireframes/Desktop_Wireframe_Contact.png)
-Mobile
-![Screenshot](../Portfolio%20website/Wireframes/Mobile_Wireframe_Home.png)
-![Screenshot](../Portfolio%20website/Wireframes/Mobile_Wirefame_About.png)
-![Screenshot](../Portfolio%20website/Wireframes/Mobile_Wireframe_Contact.png)
-
+![Screenshot](/Wireframes/Desktop_Wireframe_Home.png)
+<img src="(/Wireframes/Desktop_Wireframe_Home.png" width="100%">
 ### Content
-My content includes an about me page with my biography and photo, a contact form that uses formspree to make it functional, and my homepage has my projects section. I have included links to my Github and LinkedIn profiles in the footer.
+I have an about me page with my biography and photo, a contact form that uses formspree to make it functional, and my homepage lists my projects. I have included links to my Github and LinkedIn profiles in the footer.
 - [X] Profile picture
 - [X] Biography (at least 100 words)
 - [X] "Projects" section
