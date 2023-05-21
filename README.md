@@ -24,9 +24,9 @@ My site has three active pages, is version controlled with Git and deployed on G
 - [X] Uses semantic HTML
 ### Bonus (optional)
 I added some nice effects to my projects section on the homepage with a change in colour, and I included some Javascript to disappear my hamburger menu when at desktop size. Below are some screenshots of these features.
-- [X] Different styles for active, hover and focus states
-- [X] Include JavaScript to add some dynamic elements to your site
-![Screenshot](/Screenshots/hover_screeshot.png)
+![Screenshot](/Screenshots/hover_screenshot.png)
 ![Screenshot](/Screenshots/myprojects_hover.png)
 ![Screenshot](/Screenshots/hamburger_menu.png)
 ![Screenshot](/Screenshots/myprojects_hover.png)
+- [X] Different styles for active, hover and focus states
+- [X] Include JavaScript to add some dynamic elements to your site
